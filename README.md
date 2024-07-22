@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anastasiia 👩🏻‍💻</h1>
-<h2 style="color: DeepPink" align="center">Frontend developer based on JS and React</h2>
+<p align="center">Frontend developer based on JS and React</p>
 
-<h2 style="color: DeepPink">💻 Languages:</h2>
+<h2 style="color: #FF1493">💻 Languages:</h2>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,7 +17,6 @@
 
 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
 
 
 <h2 style="color: DeepPink">🏆 Github profile trophy:</h2>
