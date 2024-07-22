@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anastasiia 👩🏻‍💻</h1>
-<h2 style="color: darkblue" align="center">Frontend developer based on JS and React</h2>
+<h2 style="color: DeepPink" align="center">Frontend developer based on JS and React</h2>
 
-<h2 style="color: darkblue">💻 Languages:</h2>
+<h2 style="color: DeepPink">💻 Languages:</h2>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,14 +20,14 @@
 
 
 
-<h2 style="color: darkblue">🏆 Github profile trophy:</h2>
+<h2 style="color: DeepPink">🏆 Github profile trophy:</h2>
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=anastasiiagonemad&theme=discord)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastasiiagonemad&show_icons=true&theme=radical)
 
-<h2 style="color: darkblue">💡 Codewars:</h2>
+<h2 style="color: DeepPink">💡 Codewars:</h2>
 
 
 [![codewars](https://www.codewars.com/users/Anastasiiagonemad/badges/large)](https://www.codewars.com/users/Anastasiiagonemad)
